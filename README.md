@@ -10,4 +10,4 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 
 
 
-![](C:\Users\danbo\OneDrive\Git\Bootcamp Avanade Angular Developer\recriando a Página Inicial do Instagram\assets\projeto-finalizado.jpg)
+![](..\assets\projeto-finalizado.jpg)
